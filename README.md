@@ -24,9 +24,10 @@ The website provides information about the conference, speakers, pricing, and ev
 
 - Google Fonts
 - Font Awesome
-
-## 🚀 Run Locally
+## 🌐 Live Link
 [Live Demo](https://swagatamondalahona.github.io/B14-A01-DevConf-2026/)
+## 🚀 Run Locally
+
 ### 1. Clone the repository
 
 ```bash
